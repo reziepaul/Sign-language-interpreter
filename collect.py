@@ -16,7 +16,7 @@ imgSize = 300
 offset = 20
 
 # Directory to save images
-folder = 'Data/thank you'
+folder = 'Data/ yes'
 if not os.path.exists(folder):
     os.makedirs(folder)
 
